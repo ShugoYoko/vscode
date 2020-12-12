@@ -22,6 +22,7 @@ vscode-ソースコントローラ
 Commit All
 
 コマンド
+git add [ファイル名]
 git commit -a -m "任意のコメント"  //コミット (-aオプションは変更を自動検出してくれる)
 git push origin master  //masterを更新
 
